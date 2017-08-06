@@ -37,5 +37,6 @@ public class AppTest extends TestCase
     	System.out.println("TESTING...................testApp PRASATH3");
     	App app = new App();
         assertEquals("PRASATH",app.getName());
+        System.out.println("TESTING...................testApp PRASATH4");
     }
 }
